@@ -3,4 +3,5 @@ layout: page
 title: About
 permalink: /about/
 ---
- <img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-3/moss1.jpg">
+
+ <img src="http://maps.google.com/?ll=49.1500,123.0800">
