@@ -43,7 +43,7 @@ function test_input($data) {
 
 
 <p><span class="error">* required field.</span></p>
-<form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">  
+ 
   Name: <input type="text" name="name">
   <span class="error">* <?php echo $nameErr;?></span>
   <br><br>
@@ -57,10 +57,10 @@ function test_input($data) {
   <input type="radio" name="information" value="other"> Other <br><br>
   <input type="submit" name="submit" value="Submit">  
   <br><br>
-</form>
+
 
 <?php
-echo "<h3>Thank you </h3>"; echo $name; echo "<h3> for submitting your request.</h3>"; echo "<br>"; echo " we will contact you at</h3>"; echo $email;
+echo "<h3>Thank you for submitting your request we will contact you at</h3>";
 ?>
 
 </body>
