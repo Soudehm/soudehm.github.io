@@ -4,7 +4,7 @@ title: Contact us
 permalink: /contactus/
 ---
 
-<form action="action_page.php">
+<form action="index.php">
 
   First name:<br>
   <input type="text" name="firstname" value="firstname">
