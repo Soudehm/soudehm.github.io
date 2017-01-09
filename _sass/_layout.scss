@@ -29,7 +29,7 @@
     line-height: 56px;
 
     .menu-icon {
-        display: inline-grid;
+        display: none;
     }
 
     .page-link {
@@ -111,9 +111,6 @@
 .social-media-list {
     list-style: none;
     margin-left: 0;
-    
-    
-   
 }
 
 .footer-col-wrapper {
@@ -143,7 +140,6 @@
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(45% - (#{$spacing-unit} / 2));
 }
-
 
 @include media-query($on-laptop) {
     .footer-col-1,
