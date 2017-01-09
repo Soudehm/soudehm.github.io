@@ -7,7 +7,7 @@ permalink: /contactus/
 <form action="index.php">
 
   First name:<br>
-  <input type="text" name="firstname" value="firstname">
+  <input type="text" name="firstname" >
   <br>
   Last name:<br>
   <input type="text" name="lastname" value="lastname">
@@ -19,5 +19,7 @@ permalink: /contactus/
   <input type="radio" name="information" value="generalinquiries" checked> General inquiries<br>
   <input type="radio" name="information" value="requestanappointment"> Request an appointment<br>
   <input type="radio" name="information" value="other"> Other <br><br>
+  Comment: <textarea name="comment" rows="6" cols="40">
+  </textarea> <br> <br>
 <input type="submit" value="Submit">
 </form> 
