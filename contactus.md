@@ -6,5 +6,5 @@ permalink: /contactus/
 
 You can contact us at info@juniorcareer.com
 
-<img src="https://soudehm/soudehm.github.io/_includes/contact_us.jpg"/>
+<img src="/_includes/contact_us.jpg"/>
 
