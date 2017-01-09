@@ -10,5 +10,5 @@ We are located in Vancouver BC.
 <h5>
 
 <img
-    src="https://maps.googleapis.com/maps/api/staticmap?center=vancouver,bc&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true"/>
+    src="https://i.cbc.ca/1.3432379.1454529331!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/vancouver.jpg"/>
 
