@@ -3,11 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-<h3>
+<h5>
 <p> 
 We are located in Vancouver Bc. 
 </p>
-<h3>
+<h5>
 
 <iframe height="400px" width="100%" frameBorder="0" scrolling="no"
     src="https://developers.google.com/maps/documentation/utils/geocoder/embed">
