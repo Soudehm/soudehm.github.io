@@ -111,7 +111,7 @@
 .social-media-list {
     list-style: none;
     margin-left: 0;
-    display :block;
+    
    
 }
 
@@ -142,9 +142,7 @@
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(45% - (#{$spacing-unit} / 2));
 }
-.liststyle{
-    display: inline;
-}
+
 
 @include media-query($on-laptop) {
     .footer-col-1,
