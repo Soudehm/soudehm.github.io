@@ -1,5 +1,5 @@
 
-<html>
+
 <head>
 <style>
 .error {color: #FF0000;}
@@ -64,4 +64,3 @@ echo "<h3>Thank you for submitting your request we will contact you at</h3>";
 ?>
 
 </body>
-
