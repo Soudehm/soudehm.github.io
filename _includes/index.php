@@ -58,6 +58,6 @@ function test_input($data) {
   <input type="submit" name="submit" value="Submit">  
   <br><br>
 
-<h3>Thank you for submitting your request we will contact you very soon.</h3>
+<h4>Thank you for submitting your request we will contact you very soon.</h4>
 
 </body>
