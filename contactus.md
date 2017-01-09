@@ -17,9 +17,9 @@ permalink: /contactus/
   <input type="text" name="emailaddress" value="email address">
   <br>
  <br>
-  <input type="radio" name="gender" value="male" checked> General Inquiery<br>
-  <input type="radio" name="gender" value="female"> Request an appointment<br>
-  <input type="radio" name="gender" value="other"> Other <br><br>
+  <input type="radio" name="information" value="generalinquiries" checked> General inquiries<br>
+  <input type="radio" name="information" value="requestanappointment"> Request an appointment<br>
+  <input type="radio" name="information" value="other"> Other <br><br>
 <input type="submit" value="Submit">
 </form> 
 
