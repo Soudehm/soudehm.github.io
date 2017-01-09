@@ -109,7 +109,7 @@
 
 .contact-list,
 .social-media-list {
-    list-style: inline;
+    list-style: inline-table;
     margin-left: 0;
    
 }
@@ -178,7 +178,7 @@
 
 .post-list {
     margin-left: 0;
-    list-style: block;
+    list-style: none;
 
     > li {
         margin-bottom: $spacing-unit;
