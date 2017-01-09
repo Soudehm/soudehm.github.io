@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <h5>
 <p> 
-We are located in Vancouver Bc. 
+We are located in Vancouver BC. 
 </p>
 <h5>
 
