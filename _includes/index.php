@@ -46,21 +46,18 @@ function test_input($data) {
  
   Name: <input type="text" name="name">
   <span class="error">* <?php echo $nameErr;?></span>
-  <br><br>
+  <br>
   E-mail: <input type="text" name="email">
   <span class="error">* <?php echo $emailErr;?></span>
   <br><br>
-  Comment: <br> <br> <textarea name="comment" rows="5" cols="40"></textarea>
-  <br><br>
+  Comment: <br><textarea name="comment" rows="5" cols="40"></textarea>
+  <br>
   <input type="radio" name="information" value="generalinquiries" checked> General inquiries<br>
   <input type="radio" name="information" value="requestanappointment"> Request an appointment<br>
-  <input type="radio" name="information" value="other"> Other <br><br>
+  <input type="radio" name="information" value="other"> Other <br>
   <input type="submit" name="submit" value="Submit">  
   <br><br>
 
-
-<?php
-echo "<h3>Thank you for submitting your request we will contact you at</h3>";
-?>
+<h3>Thank you for submitting your request we will contact you very soon.</h3>
 
 </body>
