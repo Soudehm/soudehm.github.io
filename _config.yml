@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.juniorcareer.com" # the base hostname & protocol for your site
 twitter_username: Junior_Career
-# github_username:  Soudehm
+github_username:  Soudehm
 # instagram_username: suzikewz
 # linkedIn_username: soudehmousavi
 pinterest_username:   junior_career
