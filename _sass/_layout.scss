@@ -81,7 +81,7 @@
         }
 
         .page-link {
-            display: none;
+            display: block;
             padding: 5px 10px;
 
             &:not(:last-child) {
@@ -111,6 +111,7 @@
 .social-media-list {
     list-style: none;
     margin-left: 0;
+    display :inline;
    
 }
 
@@ -194,7 +195,7 @@
 }
 
 .post-link {
-    display: inline;
+    display: block;
     font-size: 24px;
 }
 
