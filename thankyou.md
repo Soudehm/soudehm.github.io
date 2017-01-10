@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title:
-permalink: /thankyou/
+permalink: /thankyou.md
 ---
    
    
