@@ -9,7 +9,7 @@
   <input type="radio" name="urgency" value="other"> Other <br>
   <input type="submit" name="submit" value="Send">  
   <br><br>
-       <input type="hidden" name="_next" value="//www.juniorcareer.com/thankyou.md"/>
+       <input type="hidden" name="_next" value="//www.juniorcareer.com/thankyou/"/>
         
    <script>
          var contactform = document.getElementById('formation');
