@@ -9,7 +9,7 @@
   <input type="radio" name="information" value="other"> Other <br>
   <input type="submit" name="submit" value="Send">  
   <br><br>
-       <input type="hidden" name="_next" value="//path/thanks.md"/>
+       <input type="hidden" name="_next" value="//www.juniorcareer.com/thanks.md"/>
        <input type="text" name="_gotcha" style="display:none"/>
 </form>        
    <script>
