@@ -1,8 +1,8 @@
 
 <form id="formation" method="POST">
-      <p>Name:<p> <input type="text" name="name"> <br />
-      <p>E-mail:<p> <input type="email" name="email"> <br />
-      <p>Comment: <br><textarea name="comment" rows="5" cols="40"></textarea>
+      <p>Name:<input type="text" name="name"></p>
+      <p>E-mail:<input type="email" name="email"></p>
+      <p>Comment:<textarea name="comment" rows="5" cols="40"></textarea></p>
   <br>
   <input type="radio" name="urgency" value="generalinquiries" checked> General inquiries<br>
   <input type="radio" name="urgency" value="requestanappointment"> Request an appointment<br>
