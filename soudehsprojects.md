@@ -5,4 +5,4 @@ permalink: /soudehsprojects/
 ---
 
 Thank you for visiting us, this page is currently under construction.
-Please visit <a href="https://ca.linkedin.com/in/soudehmousavi"> linkedIn Page </a>
+Please visit the mind behind this website's <a href="https://ca.linkedin.com/in/soudehmousavi"> linkedIn Page </a>
