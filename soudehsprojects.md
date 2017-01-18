@@ -4,7 +4,5 @@ title: Projects
 permalink: /soudehsprojects/
 ---
 
-Soudeh's project 
-
-
-<img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-1/bikes1.jpg"/>
+Thank you for visiting us, this page is currently under construction.
+Please visit https://ca.linkedin.com/in/soudehmousavi
