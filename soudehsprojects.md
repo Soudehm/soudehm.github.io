@@ -6,4 +6,5 @@ permalink: /soudehsprojects/
 
 Thank you for visiting us, this page is currently under construction.
 Please visit the mind behind this website's <a href="https://ca.linkedin.com/in/soudehmousavi"> 
-{% include icon-linkedIn.html username=site.linkedIn_username %} linkedIn Page </a>
+linkedIn Page </a> 
+{% include icon-linkedIn.html username=site.linkedIn_username %} 
