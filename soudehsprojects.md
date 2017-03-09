@@ -10,4 +10,5 @@ Please visit the mind behind this website's <a href="https://ca.linkedin.com/in/
 linkedIn Page </a> 
 {% include icon-linkedIn.html username=site.linkedIn_username  %}
 
-{% include 525d2018-795b-4161-8ea5-d9fcec44ce31.png %}
+<img
+    src="./_includes/525d2018-795b-4161-8ea5-d9fcec44ce31.png"/>
