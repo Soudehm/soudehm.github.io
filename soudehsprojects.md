@@ -11,4 +11,4 @@ linkedIn Page </a>
 {% include icon-linkedIn.html username=site.linkedIn_username  %}
 
 <img
-    src="./_includes/525d2018-795b-4161-8ea5-d9fcec44ce31.png"/>
+    src="./_includes/LMRLOGO.jpeg"/>
